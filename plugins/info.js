@@ -6,13 +6,13 @@ Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 Rec: Drawl Nag
 Script: @Nurotomo
 Github: 
-https://github.com/Arya274/Arya-BOT3
+https://github.com/Zanganss/d
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-Instagram: @arpunchs
+Instagram: @zanganzz_
 ➥ YouTube:
-youtube.com/DrawlNag
+youtube.com/ZanGaming
 
 *Thanks To :*
 Nurotomo
@@ -21,10 +21,8 @@ ST4RZ
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
 ╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
-║>Request? Wa.me/6281357302007
+║>Request? Wa.me/6282291992581
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
 }
