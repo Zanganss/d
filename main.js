@@ -319,8 +319,8 @@ global.dfail = (type, m, conn) => {
 
 if (opts['test']) {
   conn.user = {
-    jid: '2219191@s.whatsapp.net',
-    name: 'test',
+    jid: '6282291992581@s.whatsapp.net',
+    name: 'ZanGanteng',
     phone: {}
   }
   conn.sendMessage = (chatId, content, type, opts) => conn.emit('message-new', {
