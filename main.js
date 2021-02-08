@@ -12,9 +12,9 @@ let util = require('util')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6281515860089','6281357302007','6288235435804'] // Put your number here
-global.mods = ['6281357302007','6288235435804'] // Want some help?
-global.prems = ['6281357302007','6288235435804'] // Premium user has unlimited limit
+global.owner = ['6282291992581','6285340827717','6283140213796'] // Put your number here
+global.mods = ['6282291992581','6283140213796'] // Want some help?
+global.prems = ['6282291992581','6283140213796'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -82,8 +82,8 @@ conn.handler = async function (m) {
         if (!isNumber(user.lastclaim)) user.lastclaim = 0
       } else global.DATABASE._data.users[m.sender] = {
         exp: 0,
-        limit: 20,
-        lastclaim: 0,
+        limit: 100000,
+        lastclaim: 10000,
       }
       
       let chat
