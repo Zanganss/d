@@ -20,7 +20,7 @@ global.APIs = { // API Prefix
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
   
-  cr = '*Zan Ganteng Karina Cantik:V*'
+  
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
